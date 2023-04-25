@@ -1,2 +1,4 @@
 # odin-landing-page
-Project: Landing Page from The Odin Project Exercises
+Template of a landing page as project.
+
+Created with HTML and CSS, using the Flex layout. 

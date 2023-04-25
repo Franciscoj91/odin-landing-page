@@ -142,3 +142,39 @@ nav {
     text-align: end;
     margin-top: 0;
 }
+
+.callback-section {
+    padding: 100px;
+    
+}
+
+.callback-section .container {
+    background-color: #3882f6;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    color: #f9faf8;
+    padding: 50px 0;
+    margin: 0 100px
+}
+
+.callback-title {
+    margin: 0;
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.callback-text {
+    color: #e5e7eb;
+    font-weight: 300;
+    margin: 0;
+}
+
+.callback-btn {
+    border: 2px solid #f9faf8;
+    padding: 5px 30px;
+    border-radius: 10px;
+    font-weight: 900;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
